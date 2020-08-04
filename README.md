@@ -1,0 +1,2 @@
+# SportsManagementSystem
+  The Sports Management System is a console based application intended for college sports event organizers. It would help the organizer to upload the sports details in the application after uploading the sports details students can register for the required sports. After completing registration organizer can use the student details for further purposes and he can schedule matches, then students can see the points table of the each sport through this application.
